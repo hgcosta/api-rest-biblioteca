@@ -1,3 +1,4 @@
+// Schema definido para o do banco de dados
 import mongoose from 'mongoose';
 
 const livroSchema = new mongoose.Schema(

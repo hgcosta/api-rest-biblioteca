@@ -1,3 +1,5 @@
+//Arquivo inicia o servidor e escuta a porta
+
 import app from "./src/app.js";
 const port = process.env.Port  || 3000;
 
